@@ -1,3 +1,2 @@
-let a = 42;
-
-console.log(!a)
+let a = prompt("aa ");
+console.log(a);
